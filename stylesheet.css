@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-  background-color: #E2DEA9;
+  background-color: #e1deb7;
   color: #000;
   height: 110px;
   font-family: "Lucida-Bright";
@@ -34,7 +34,7 @@ center {
 
 .main {
   padding: 100px 80px;
-  background-color: #E2DEA9;
+  background-color: #e1deb7;
   font-family: "Lucida-Bright";
 }
 
@@ -67,7 +67,7 @@ h3 {
 }
 
 .footer {
-  background-color: #E2DEA9;
+  background-color: #e1deb7;
   color: #000;
   height: 400px;
   padding: 40px;
