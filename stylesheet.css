@@ -84,9 +84,9 @@ h3 {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #00000;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #707070;
 }
 
 .message-wrapper {
@@ -95,7 +95,7 @@ h3 {
   text-align: center;
   opacity: 0.8; 
   border-radius: 4px;
-  color: #000;
+  color: #ffffff;
   height: 400px;
   padding: 40px;
   font-family: "Lucida-Bright";
