@@ -93,9 +93,10 @@ h3 {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-   background-color: #e1deb7;
+   
   color: #000;
   height: 400px;
   padding: 40px;
   font-family: "Lucida-Bright";
+  background-color: #e1deb7;
 }
