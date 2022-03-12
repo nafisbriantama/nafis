@@ -93,7 +93,8 @@ h3 {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-   
+  opacity: 0.8; 
+  border-radius: 4px;
   color: #000;
   height: 400px;
   padding: 40px;
