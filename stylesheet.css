@@ -81,3 +81,10 @@ h3 {
 .footer img {
   padding: 30px;
 }
+
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
